@@ -1,8 +1,7 @@
 # geojson-world
 GeoJSON files of all Capitals and Countries of the world.
 
-I could'n find any valid geoJSON files of the world capitals or the shapes of the world countries on the web.
-So I converted the data I found into two valid geoJSON files.
+I could'n find any valid geoJSON files of the world capitals or the shapes of the world countries, so I converted the data I found into two valid geoJSON files.
 
 ### capitals.geojson
 This file contains all capitals of the world with coordinates type 'Point'.
