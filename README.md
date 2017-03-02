@@ -4,10 +4,10 @@ GeoJSON files of all Capitals and Countries of the world.
 I could'n find any valid geoJSON files of the world capitals or the shapes of the world countries on the web.
 So I converted the data I found into two valid geoJSON files.
 
-## capitals.geojson
+### capitals.geojson
 This file contains all capitals of the world with coordinates type 'Point'.
 
-## countries.geojson
+### countries.geojson
 This file contains the shapes of all countries of the world as type 'Polygon' or 'MultiPolygon'.
 
 
