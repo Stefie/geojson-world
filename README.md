@@ -13,5 +13,6 @@ This file contains the shapes of all countries of the world as type 'Polygon' or
 
 ## Data Credits
 I took the original data from:
+
 Geojson World Capitals: http://www.geognos.com/geo/en/world-countries-API.html
 Geojson Polygons World Countries: https://github.com/mledoze/countries/tree/master/data
